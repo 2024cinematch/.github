@@ -11,7 +11,9 @@ DT: 박찬진, 임혜빈, 한주호
 
 ## Development Environment
 
-![Alt text](<https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white>)
+Springboot
+
+Vue.js, Vuetify
 
 ## Notion
 
@@ -25,3 +27,7 @@ DT: 박찬진, 임혜빈, 한주호
 **프론트엔드**: CineMatch_FE
 
 **데일리스크럼**: DailyScrum
+
+## Figma
+
+
