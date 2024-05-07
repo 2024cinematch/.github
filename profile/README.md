@@ -30,4 +30,6 @@ Vue.js, Vuetify
 
 ## Figma
 
+![스크린샷 2024-05-07 122108](https://github.com/2024cinematch/.github/assets/165116921/7590e63b-6a34-4352-a63c-ae8aea8140d8)
+
 
